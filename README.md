@@ -1,4 +1,4 @@
-```
+```sh
 ❯ node -v
 v12.14.1
 
@@ -6,7 +6,7 @@ v12.14.1
 1.21.1
 ```
 
-```
+```sh
 yarn babel ./main.js --out-file bundle.js
 ```
 

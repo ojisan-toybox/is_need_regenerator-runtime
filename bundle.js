@@ -34,3 +34,5 @@ function () {
     return _ref.apply(this, arguments);
   };
 }();
+
+hoge();
