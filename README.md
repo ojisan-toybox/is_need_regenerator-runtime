@@ -1,3 +1,7 @@
+core-js, regenerator-runtime なしで async-await やろうとしたらどうなるのか確かめてみた系レポジトリ
+
+結果は commit log 参照.
+
 ```sh
 ❯ node -v
 v12.14.1
